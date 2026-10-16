@@ -1,0 +1,24 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+
+  ROLLDOWN-VITE v7.1.13  ready in 527 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.10.249.21:5173/
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+
+  ROLLDOWN-VITE v7.1.13  ready in 503 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.10.249.21:5173/
+12:43:11 AM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-accordion
+12:43:11 AM [vite] (client) ✨ optimized dependencies changed. reloading
+12:45:21 AM [vite] (client) page reload builds/b7681b3c4ec2b1942e006d7149da562440318533/13c9b/index.html
+12:46:13 AM [vite] (client) page reload builds/2a85247f0ba9557984c6a2badfec7e23072f1f4e/69f83/index.html
